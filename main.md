@@ -1,4 +1,5 @@
 # Unleashing Nature's Climate Hero: Enhanced Rock Weathering
+Group 6: Naya Davidson-Lindfors, Zachary Kazaz, Justine Meriel, Ayushma Neku, & Benjamin Swan
 
 ### Introduction
 Climate change is a pressing global crisis demanding innovative solutions. Enhanced Rock Weathering (ERW) has the potential to be an innovative solution (Meysman and Montserrat, 2017). ERW speeds up the natural process of turning CO2, the culprit behind global warming, into harmless minerals. 
